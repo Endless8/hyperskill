@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Flashcards-task_main" target="11" />
+      <module name="Flashcards-task_test" target="11" />
+      <module name="Problems-Books_main" target="11" />
+      <module name="Problems-Books_test" target="11" />
+      <module name="Problems-Fix_the_program__1__main" target="11" />
+      <module name="Problems-Fix_the_program__1__test" target="11" />
+      <module name="Problems-Fix_the_program__2__main" target="11" />
+      <module name="Problems-Fix_the_program__2__test" target="11" />
+      <module name="Problems-Fix_the_program_main" target="11" />
+      <module name="Problems-Fix_the_program_test" target="11" />
+      <module name="Problems-Print_main" target="11" />
+      <module name="Problems-Print_test" target="11" />
+      <module name="Problems-Representing_time_as_a_class_main" target="11" />
+      <module name="Problems-Representing_time_as_a_class_test" target="11" />
+      <module name="Problems-Tables_and_rows_main" target="11" />
+      <module name="Problems-Tables_and_rows_test" target="11" />
+      <module name="Problems__1_-Account_main" target="11" />
+      <module name="Problems__1_-Account_test" target="11" />
+      <module name="Problems__1_-Army_main" target="11" />
+      <module name="Problems__1_-Army_test" target="11" />
+      <module name="Problems__2_-Book_main" target="11" />
+      <module name="Problems__2_-Book_test" target="11" />
+      <module name="Problems__3_-Account_Service_main" target="11" />
+      <module name="Problems__3_-Account_Service_test" target="11" />
+      <module name="Problems__4_-Compact_strings_with_AsciiCharSequence_main" target="11" />
+      <module name="Problems__4_-Compact_strings_with_AsciiCharSequence_test" target="11" />
+      <module name="Problems__5_-Compact_strings_with_AsciiCharSequence_main" target="11" />
+      <module name="Problems__5_-Compact_strings_with_AsciiCharSequence_test" target="11" />
+      <module name="Problems__6_-Count_words_main" target="11" />
+      <module name="Problems__6_-Count_words_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
